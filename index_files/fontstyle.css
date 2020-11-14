@@ -1,0 +1,73 @@
+
+.normaltxt {color: #FFFFFF; font-size: 10pt;}
+.normaltxt a:link {color: #424242; font-size: 10pt;  text-decoration: none;} 
+.normaltxt a:visited {color: #424242; font-size: 10pt; text-decoration: none;}
+.normaltxt a:hover { color: #E91E63;  font-size: 10pt; text-decoration: none;}
+.normaltxt a:active {color: #E91E63; font-size: 10pt; text-decoration: none;}
+
+.normaltxtbl {font-size: 10pt; font-weight: bold; text-decoration: none;} 
+.normaltxtwt {color: #FFFFFF; font-size: 10pt; font-weight: bold; text-decoration: none;} 
+.normalbk {color: #2a2a2a; font-size: 7pt; text-decoration: none;} 
+
+.header-txt{color: #FFFFFF; font-size: 14pt; text-decoration: none;} 
+
+.justice1-txt{color: #7202a6; font-size: 10pt; text-decoration: none;} 
+.justice2-txt{color: #020e82; font-size: 10pt; text-decoration: none;} 
+								
+.linkcontent {font-size: 12pt;} 
+.linkcontent a:link { font-size: 12pt; text-decoration: none;} 
+.linkcontent a:visited {font-size: 12pt; text-decoration: none;}
+.linkcontent a:hover {font-size: 12pt; font-weight: bold; text-decoration: none;}
+.linkcontent a:active {font-size: 12pt; font-weight: bold; text-decoration: none;}
+								
+.linkfoot{color: #FFFFFF; font-size: 11pt; text-decoration: none;} 
+.linkfoot a:link {color: #FFFFFF; font-size: 11pt; text-decoration: none;} 
+.linkfoot a:visited {color: #FFFFFF; font-size: 11pt; text-decoration: none;}
+.linkfoot a:hover {color: #F9C; font-size: 11pt; text-decoration: none;}
+.linkfoot a:active {color:#F9C;  font-size: 11pt;text-decoration: none;}
+								
+.linkhead a:link {color: #424242; font-size: 12pt; font-weight: bold; text-decoration: none;} 
+.linkhead a:visited {color: #424242; font-size: 12pt; font-weight: bold; text-decoration: none;}
+.linkhead a:hover { color: #E91E63;  font-size: 12pt; font-weight: bold;  text-decoration: none;}
+.linkhead a:active {color: #E91E63; font-size: 12t; font-weight: bold;  text-decoration: none;}
+
+.linkhead2 a:link {color: #FFFFFF; font-size: 12pt; font-weight: bold; text-decoration: none;} 
+.linkhead2 a:visited {color: #FFFFFF; font-size: 12pt; font-weight: bold; text-decoration: none;}
+.linkhead2 a:hover { color: #E91E63;  font-size: 12pt; font-weight: bold;  text-decoration: none;}
+.linkhead2 a:active {color: #E91E63; font-size: 12t; font-weight: bold;  text-decoration: none;}
+								
+.linkbox a:link {color: #424242; font-size: 12pt;  text-decoration: none;} 
+.linkbox a:visited {color: #424242; font-size: 12pt; text-decoration: none;}
+.linkbox a:hover { color: #E91E63;  font-size: 12pt; font-weight: bold; text-decoration: none;}
+.linkbox a:active {color: #E91E63; font-size: 12pt; font-weight: bold; text-decoration: none;}
+
+
+.linknew a:link {color: #424242; font-size: 11pt; font-weight: bold;  text-decoration: none;} 
+.linknew a:visited {color: #424242; font-size: 11pt;  font-weight: bold;  text-decoration: none;}
+.linknew a:hover {color: #E91E63;  font-size: 12pt; font-weight: bold; text-decoration: none;}
+.linknew a:active {color: #E91E63; font-size: 12pt; font-weight: bold; text-decoration: none;}
+			
+.linkmanual a:link {color: #424242; font-size: 12pt; text-decoration: none;} 
+.linkmanual a:visited {color: #424242; font-size: 12pt;  text-decoration: none;}
+.linkmanual a:hover {color: #E91E63;  font-size: 12pt;  font-weight: bold; text-decoration: none;}
+.linkmanual a:active {color: #E91E63; font-size: 12pt;  font-weight: bold; text-decoration: none;}
+
+.linkpre a:link {color: #424242; font-size: 12pt; text-decoration: none;} 
+.linkpre a:visited {color: #424242; font-size: 12pt;  text-decoration: none;}
+.linkpre a:hover {color: #E91E63;  font-size: 12pt;   text-decoration: none;}
+.linkpre a:active {color: #E91E63; font-size: 12pt;   text-decoration: none;}
+
+.linkevent a:link {color: #424242; font-size: 13pt; font-weight: bold;} 
+.linkevent a:visited {color: #424242; font-size: 13pt; font-weight: bold;}
+.linkevent a:hover {color: #E91E63;  font-size: 13pt; font-weight: bold;}
+.linkevent a:active {color: #E91E63; font-size: 13pt; font-weight: bold;}
+
+.linkactnews a:link {color: #424242; font-size: 11pt; text-decoration: none;} 
+.linkactnews a:visited {color: #424242; font-size: 11pt;  text-decoration: none;}
+.linkactnews a:hover {color: #E91E63;  font-size: 11pt; text-decoration: none;}
+.linkactnews a:active {color: #E91E63; font-size: 11pt; text-decoration: none;}
+
+.linkindex a:link {color: #56361A; font-size: 11pt; text-decoration: none;} 
+.linkindex a:visited {color: #56361A; font-size: 11pt;  text-decoration: none;}
+.linkindex a:hover {color: #E91E63;  font-size: 11pt; text-decoration: none;}
+.linkindex a:active {color: #E91E63; font-size: 11pt; text-decoration: none;}

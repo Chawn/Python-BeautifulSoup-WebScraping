@@ -1,0 +1,47 @@
+.search-box,.close-icon,.search-wrapper {
+	position: relative;
+	padding: 3px;
+}
+.search-wrapper {
+	width: 80%;
+	margin: auto;
+}
+.search-box {
+	width: 95%;
+ border: 1px solid #ccc;
+  outline: 0;
+  border-radius: 3px;
+}
+.search-box:focus {
+	border: 1px solid #bebede;
+}
+.close-icon {
+	border:1px solid transparent;
+	background-color: transparent;
+	display: inline-block;
+	vertical-align: middle;
+  outline: 0;
+  cursor: pointer;
+}
+.close-icon:after {
+	content: "X";
+	display: block;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	z-index:1;
+	right: 15px;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	padding: 2px;
+	border-radius: 20%;
+	text-align: center;
+	color: red;
+	font-weight: normal;
+	font-size: 12px;
+	cursor: pointer;
+}
+.search-box:not(:valid) ~ .close-icon {
+	display: none;
+}

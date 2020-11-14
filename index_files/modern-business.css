@@ -1,0 +1,151 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body{background-color: #E6E6E6;}
+.longdesc {  display: none; } 
+/*!*
+* Slick Custom Theme
+*/
+.slick-carousel .slick-item {
+  color: white;
+  min-height: 250px;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.slick-carousel .slick-item:hover {
+  opacity: .7
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: black;
+  content: '';
+}
+
+.slick-arrow {
+  width: 55px;
+  height: 55px;
+  z-index: 5;
+  border-top: 3px solid #06d1a4;
+  border-right: 3px solid #06d1a4;
+  -webkit-transition: opacity 0.3s ease-out;
+  -moz-transition: opacity 0.3s ease-out;
+  transition: opacity 0.3s ease-out;
+}
+
+.slick-arrow:hover {
+  opacity: .5
+}
+
+.slick-prev {
+  left: 0%;  
+  transform: rotate(225deg);
+}
+
+.slick-next {
+  right: 0%;
+  transform: rotate(45deg);
+}
+
+
+/**!
+* Caption Styles
+*/
+
+.caption-item {  
+  right: 0;
+  margin: 0px;
+  padding: 0px;
+}
+
+.caption-link {
+  display: block;
+  position: relative;
+  margin: 0 auto;
+  max-width: 400px;
+}
+
+.caption-link .caption-layer {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  -webkit-transition: all ease .5s;
+  -moz-transition: all ease .5s;
+  transition: all ease .5s;
+}
+
+.caption-layer.green {
+  background: rgba(173, 219, 50, .5);
+}
+
+.caption-layer.light-green {
+  background: rgba(6, 209, 164, .7);
+}
+
+.caption-layer.blue {
+  background: rgba(152, 231, 254, .5);
+}
+
+.caption-link .caption-layer:hover,
+.caption-layer.video-icon {
+  opacity: 1;
+}
+
+.caption-link .caption-layer .caption-content {
+  position: absolute;
+  top: 35%;
+  width: 100%;
+  text-align: center;
+  font-size: 50px;
+  color: #fff;
+}
+
+.caption-link .caption-layer .caption-content p {
+  display: none;
+}
+
+@media (min-width: 800px) {
+  body {
+    padding-top: 0px;
+  }
+}
+.bordermenu{background-color: #FFFFFF; border: 1px solid #2C3E50;}
+.borderpage{background-color: #FFFFFF; border: 1px solid #2C3E50; -webkit-border-radius: 0 0 10px 10px; -moz-border-radius: 0 0 10px 10px; width: 100%;border-radius: 0 0 10px 10px;}
+.borderpage2{background-color: #FFFFFF; border: 1px solid #DA1C5C; -webkit-border-radius: 0 0 10px 10px; -moz-border-radius: 0 0 10px 10px; width: 100%;border-radius: 0 0 10px 10px;}
+.borderhead{background-color: #FFFFFF; border: 1px solid #DA1C5C; -webkit-border-radius: 10px 10px 0px 0px; -moz-border-radius: 10px 10px 0px 0px; width: 100%;border-radius: 10px 10px 0px 0px;}
+.borderfoot{background-color: #FFFFFF; border: 1px solid #DA1C5C; -webkit-border-radius: 10px 10px; -moz-border-radius: 10px 10px; width: 100%;border-radius: 10px 10px;}
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 15px;
+}
+
+.portfolio-item2 {
+  margin: 6px 0 6px 0;
+}
+
+.portfolio-item3 {
+  margin-top: 30px;
+}
+
+.portfolio-item4 {
+  margin: 8px 2px 8px 2px;
+}
+
+
